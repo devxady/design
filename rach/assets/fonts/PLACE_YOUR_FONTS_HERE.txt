@@ -1,0 +1,1 @@
+Copy your owned Advercase-Regular.ttf and Advercase-Bold.ttf into this folder.
